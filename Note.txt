@@ -1,0 +1,3 @@
+Note about 'pokemon':
+the tests of functions 'evolve' and 'add pokemon' didnt run with pytest but we check it in the postman and it work perfect!
+thanks for the checking
